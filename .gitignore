@@ -32,3 +32,4 @@ secrets.json
 *__pycache__/
 .backup/
 .env
+src_bkp/
